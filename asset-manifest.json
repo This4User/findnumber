@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/findnumber/static/css/main.6a8d0843.css",
+    "main.js": "/findnumber/static/js/main.0eb9f92d.js",
+    "static/media/game_heading.svg": "/findnumber/static/media/game_heading.6aed7ca11bced89bfa39c160c6e627bc.svg",
+    "static/media/secondEyeIcon.svg": "/findnumber/static/media/secondEyeIcon.ff8b5672750815551d09dae7e629d3a4.svg",
+    "static/media/thirdEyeIcon.svg": "/findnumber/static/media/thirdEyeIcon.dc121d7818e5b608b4b05396dad37f00.svg",
+    "static/media/eyeicon.svg": "/findnumber/static/media/eyeicon.542d8bcb399c6da87e733f57af0300e3.svg",
+    "index.html": "/findnumber/index.html",
+    "main.6a8d0843.css.map": "/findnumber/static/css/main.6a8d0843.css.map",
+    "main.0eb9f92d.js.map": "/findnumber/static/js/main.0eb9f92d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8d0843.css",
+    "static/js/main.0eb9f92d.js"
+  ]
+}
